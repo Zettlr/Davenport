@@ -1,0 +1,14 @@
+# Adapted from https://www.gitignore.io/api/vuejs and https://www.gitignore.io/api/node
+### Vuejs ###
+# Recommended template: Node.gitignore
+
+node_modules/
+dist/
+npm-debug.log
+yarn-error.log
+
+# Dependency directories
+node_modules/
+
+# Yarn Integrity file
+.yarn-integrity

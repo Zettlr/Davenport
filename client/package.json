@@ -1,0 +1,10 @@
+{
+  "name": "davenport-client",
+  "version": "0.0.1",
+  "description": "The frontend library for the Davenport server",
+  "main": "main.js",
+  "repository": "https://github.com/Zettlr/Davenport",
+  "author": "Hendrik Erz <info@zettlr.com>",
+  "license": "GPL-3.0",
+  "private": false
+}
